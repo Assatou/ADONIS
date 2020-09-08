@@ -1,0 +1,21 @@
+.entete {
+text-align: center;
+color:red;
+}
+header{
+    background-color: gray;
+    height: 70px;
+    margin-bottom: 20px;
+}
+
+.text{
+    text-align: center;
+
+}
+
+footer{
+    text-align: center; 
+    background-color:black;
+    height: 70px;
+    margin-top: 20px; 
+}
